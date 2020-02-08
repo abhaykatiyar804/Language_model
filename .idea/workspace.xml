@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8978a4c-6b94-404f-8a74-b19ea3fec1dc" name="Default Changelist" comment="" />
+    <list default="true" id="e8978a4c-6b94-404f-8a74-b19ea3fec1dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,19 +77,6 @@
             <path>
               <item name="LSTM_Language model" type="b2602c69:ProjectViewProjectNode" />
               <item name="LSTM_Language model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LSTM_Language model" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LSTM_Language model" type="462c0819:PsiDirectoryNode" />
-              <item name="language_model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LSTM_Language model" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="LSTM_Language model" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
